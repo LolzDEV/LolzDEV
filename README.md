@@ -18,7 +18,6 @@
   <span><img src="images/sass.png"></span>
   <span><img src="images/javascript.png"></span>
   <span><img src="images/typescript.png"></span>
-  <span><img src="images/bash.png"></span>
   <span><img src="images/git.png"></span>
   <span><img src="images/ubuntu.png"></span>
 </p>
