@@ -1,7 +1,8 @@
 # Hi there, LolzDEV here 👋
 
-- 🌱 I’m currently learning Rust ❤️🦀
+- 🦀 Rust enthusiast
 - 📫 You can contact me on Discord: ```LolzDEV#3402```
+- 🏠 Currently living in Italy 🍕
 
 <hr>
 
